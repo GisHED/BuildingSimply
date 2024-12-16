@@ -1,3 +1,4 @@
+
 - 1. run script  
 python main.py
 
@@ -11,3 +12,5 @@ python main.py
 Tab2:
 ![alt text](imgs/image.png)
 
+Todo:
+The Training model weight will be uploaded very soon.
